@@ -1,0 +1,2131 @@
+[{
+        "id": "",
+        "name": "Sân bóng Quảng An",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân Quảng An có ưu điểm là sở hữu 2 sân với diện tích khác nhau. Một sân ngắn nhưng rộng và một sân dài hơn, phù hợp cho những bạn quen thi đấu trong không gian hẹp và những bạn thích những pha đi bóng tốc độ cùng những đường chuyền dài vượt tuyến. Khung thành của sân Quảng An cũng được đầu tư khá tốt tạo cảm giác chụp gôn cho các thủ môn.\t\t\t",
+        "address": "16/67 phố Quảng An, Tây Hồ, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "001",
+        "district_name": "Ba Đình",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Mễ Trì Thượng",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    - Số lượng sân và kích thước: Sân bóng đá MỄ TRÌ THƯỢNG bao gồm 4 sân 7 với kích thước rộng tiêu chuẩn ghép thành sân lớn \n\n- Giá thuê trung bình 1 sân 7 vào giờ Vàng từ 17h tới 20h30 hàng ngày là 550.000 VND/90 phút. Các khung giờ khác giá mềm hơn 250.000 VND/90 phút..Trường hợp khách hàng thuê để đá giải, tuỳ số lượng trận sẽ có những ưu đãi giảm giá riêng\n\n- Sân bóng đá MỄ TRÌ THƯỢNG với chất lượng cỏ tiêu chuẩn, hệ thống thoát nước tốt, Mặt sân phẳng. Sân bóng đá MỄ TRÌ THƯỢNG thực sự là 1 địa điểm tốt để đá bóng. \n\n- Sân bóng đá MỄ TRÌ THƯỢNG được đầu tư hệ thống ánh sáng với 6 cột đèn và 14 bóng đèn , đảm bảo ánh sáng  khi chơi vào buổi tối. \t\t\t",
+        "address": "KM số 1, Đại Lộ Thăng Long, Mễ Trì, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "001",
+        "district_name": "Ba Đình",
+        "lat": 21.0027265,
+        "lng": 105.77491609999993,
+        "map_id": "",
+        "hotlines": [
+            "01654659748 "
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng An Dương",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân An Dương là nằm ngay trung tâm Hà Nội. Được nâng cấp từ sân đất vào cuối năm 2011 và đầu 2012 nên sân An Dương có chất lượng cỏ tốt hơn so với các sân khác. Thêm vào đó, dàn đèn cao áp để phục vụ cho các bạn trẻ chơi bóng buổi tối cũng là rất tốt, nếu không muốn nói là tốt nhất so với các sân cỏ nhân tạo trong khu vực nội thành Hà Nội hiện nay.\t\t\t",
+        "address": "Số 47 ngõ 76 An Dương, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "001",
+        "district_name": "Ba Đình",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Hồng Hà",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng Hồng Hà 1 là sân cỏ nhân tạo với diện tích rộng.\n\nChất lượng sân đảm bảo, sạch sẽ, mang lại những buổi đá bóng thú vị và hấp dẫn nhất.\n\nGiá thuê sân hợp lí, có nhiều loại sân cho quý khách chọn lựa.\t\t\t",
+        "address": "15 Hồng Hà, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "001",
+        "district_name": "Ba Đình",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Ngoại Thương",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng gồm 2 sân diện tích hơi nhỏ một chút, mặt cỏ và hệ thống chiếu sáng trung bình. Sân nằm sâu trong ngõ đối diện với sân bóng 112 chùa láng\t\t\t",
+        "address": "Ngõ 157 Chùa Láng, Láng Thượng, Đống Đa, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "006",
+        "district_name": "Đống Đa",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01643178888"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Hoàng Cầu",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá Hoàng Cầu có hệ thống sân rộng rãi, thoáng mát, có 2 sân 9 người và 11 người, 4 sân 7 người.\n\nNgoài ra, sân còn có dịch vụ cho thuê đồ, khu y tế, khu vệ sinh.\n\nNhân viên sân bóng nhanh nhẹn, chu đáo. Giá thuê sân hợp lý, vừa phải.\n\n\n\n\t\t\t",
+        "address": "59 phố Hoàng Cầu, phường Ô Chợ Dừa, Đống Đa",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "006",
+        "district_name": "Đống Đa",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "043.5118030 - 0912503534"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 4
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Chùa Láng",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng là cụm sân bóng gồm 3 sân diện tích khá rộng, mặt cỏ hệ thống chiếu sáng tốt. Sân nằm ngay ngoài mặt đường khu để xe và uống nước khá thoải mái\t\t\t",
+        "address": "112 Chùa Láng - Đống Đa - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "006",
+        "district_name": "Đống Đa",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Thủy Lợi",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân Thủy Lợi có ưu điểm là diện tích sân 7 người khá rộng, khung thành cũng lớn hơn các sân khác nên một số bạn thủ môn thích “bay nhảy” sẽ phù hợp với sân này. Mặt cỏ của sân Thủy Lợi cũng khá tốt khi cỏ có độ dài và lún nhất định, lượng cao su hạt rải ra trên mặt sân cũng không nhiều nên các bạn sẽ yên tâm cảm nhận được mặt cỏ chứ không như một số sân phủ đầy cao su gây cản trở trong các pha “tắc” bóng\t\t\t",
+        "address": "Ngõ 95, Chùa Bộc, Đống Đa, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "006",
+        "district_name": "Đống Đa",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0976299980"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 4
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Đại học Y Hà Nội",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Mới được nâng cấp và hoàn thiện nên mặt sân có chất lượng tốt, sân có nhà vệ sinh riêng, có canteen được trải cỏ, không khí yên tĩnh, không gian rộng, bãi để xe thuận tiện.\t\t\t",
+        "address": "Số 1 Tôn Thất Tùng, Đống Đa, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "006",
+        "district_name": "Đống Đa",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0933876822"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 8
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 8
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Trường THPT Tây Hồ",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng nằm trong khuôn viên trường THPT Tây hồ, với 3 sân mặt cỏ, diện tích sân, hệ thống chiếu sáng khá tốt. Thứ 2,4,6 mở cửa từ 16h30, thứ 3,5,7 từ 16h. Các ngày chủ nhật nghỉ lễ tết mở cả ngày.\t\t\t",
+        "address": "Trường THPT Tây Hồ - Phường Phú Gia - Quận Tây Hồ",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "003",
+        "district_name": "Tây Hồ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0903413825"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Trường Chu Văn An",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân Chu Văn An nằm ngay ở trung tâm thành phố Hà Nội và cạnh Hồ Tây. Không khí ở trong sân Chu Văn An được gió Hồ Tây thổi vào nên rất thoáng mát, chính vì thế mà bạn sẽ không cảm thấy ngộp như một số sân ở gần các tòa nhà cao tầng.\t\t\t",
+        "address": "Số 10 Thụy Khuê, Tây Hồ, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "003",
+        "district_name": "Tây Hồ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Âu Lạc",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    + Sân bóng đá cỏ nhân tạo R9 Âu Lạc do công ty DAHCO thiết kế thi công, quản lý và khai thác\n\n+ Sau 1 tháng thi công, sân bóng đá cỏ nhân tạo R9 Âu Lạc chính thức đi vào hoạt động từ ngày 16/5/2009.\n\n+ Đây là  1 trong 2 sân bóng đá cỏ nhân tạo xuất hiện sớm nhất tại Hà Nội cũng như tại miền Bắc, làm lên phong trào chơi bóng trên sân cỏ nhân tạo và thi công sân cỏ nhân tạo tại Hà Nội.\t\t\t",
+        "address": "697 Lạc Long Quân, Tây Hồ, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "003",
+        "district_name": "Tây Hồ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0947.791.333"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 5
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 5
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Bách Việt 2",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Lô D8 Trần Thái Tông cắt Duy Tân, Dịch Vọng",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "04. 6684 9023 - 0986. 393 776"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Hoàng Gia",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Nằm trong khuôn viên với quy hoạch lên đến 50 sân cỏ nhân tạo 7 người, sân cỏ nhân tạo Hoàng Gia vẫn luôn nổi lên là 1 cụm sân có chất lượng, khuôn viên và quy mô đẹp nhất tại đây. Sân bóng Hoàng Gia là cụm sân cỏ nhân tạo bao gồm 5 sân, trong đó có 4 sân rộng, 1 sân hơi nhỏ.\t\t\t",
+        "address": "Hoàng Minh Giám - Cầu giấy - Hà nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 5
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 5
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Sơn Trang 2",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sơn Trang 2 là 1 trong những tổ hợp có nhiều sân bóng nhất Hà Nội (10 sân 7), vì vậy các đội có thể dễ dàng hơn trong việc đặt sân mà không sợ bị kín lịch.\n\nNgoài khung giờ cao điểm, giá cả khá “mềm”.\n\nVì là cụm sân đã đưa vào hoạt động từ lâu nên mặt cỏ đã bị mòn khá nhiều.\n\nHệ thống chiếu sáng tại Sơn Trang 2 không đươc tốt cho lắm đối với những trận đấu vào khung giờ tối.\t\t\t",
+        "address": "Số 1 Hoàng Minh Giám - Đối diện cổng trường HN Amsterdam",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0988005065 - 0923915519"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 2
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 10
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 10
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Minh Kiệt",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Cụm sân cỏ nhân tạo Minh Kiệt đánh dấu một bước đi mới trong các sân bóng  cỏ nhân tạo tại Hà Nội cũng như cả nước. Từ chất lượng sân cỏ nhân tạo , mặt sân , căng tin , nhà điều hành, cho đến khuôn viên xung quanh sân cỏ nhân tạo được chủ đầu tư quan tâm và chăm chút để có một sân chơi quy mô và chất lượng tốt nhất.Cùng với địa điểm đắc địa tại khu trung tâm thành Phố , cụm sân bóng cỏ nhân tạo Minh Kiệt đang là sân chơi thu hút và tập trung nhiều đội bóng đến thi đấu, giao lưu.\t\t\t",
+        "address": "Hoàng Minh Giám, Trung Hoà, Cầu Giấy",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0936848588"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 4
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng VIMECO",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng Vimeco gồm 2 sân bóng có diện tích mặt cỏ và hệ thống chiếu sáng khá. Sân bóng có khuân viên khá kín nên đôi khi các đội bóng đến sân lần đầu không biết lối vào. Sân nằm ngay tại vòng xuyến đường Vũ phạm hàm, đổi diện cổng trung tâm hội nghị quốc gia trên đường phạm hùng.\n\n\t\t\t",
+        "address": "Ngã tư Nam Trung Yên giao Vũ Phạm Hàm",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0989.242.024. 0989.275.587"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng SABODA",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Nói đến Saboda là nói đến một sân cỏ nhân tạo với mặt sân phẳng, êm được làm nên từ loại cỏ kim cao cấp giúp cầu thủ điều khiển bóng tốt hơn, giảm thiểu khả năng chấn thương khi thi đấu.\n\n\n\nVới diện tích hơn 11.000m2, sân có hệ thống đèn cao áp chiếu sáng đã được bố trí lệch pha nhằm bảo đảm độ phân bổ ánh sáng tốt nhất cho người chơi, hệ thống máy phát điện dự phòng luôn được chuẩn bị sẵn sàng. \t\t\t",
+        "address": "số 8 Lê Đức Thọ, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0906.300.384 ; 0904645369"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Phúc Anh",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Nguyễn Phong Sắc kéo dài, Cầu Giấy, Hà Nội ( gần sân bóng Khu liên hợp thể thao PVV).",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Nhất Sơn",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Nguyễn Chánh, Khu đô thị Nam Trung Yên, Trung Hoà, Cầu Giấy",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "097.68.61.007"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Lamasia",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            " 0986.882.468"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 7
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 7
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng khu Liên hiệp thể thao PVV",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng cỏ đạt tiêu chuẩn FIFA, hệ thống đèn chiếu sáng tương đối tốt\t\t\t",
+        "address": "Lô 22, Trần Thái Tông, Cầu Giấy",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0947.869.393"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Trung Kính hạ",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá mini với các mặt sân được làm bằng cỏ nhân tạo, không gian thoáng mát, sạch sẽ.\n\nPhục vụ nhu cầu thể thao, rèn luyện sức khỏe\n\nGiá cả phải chăng, dịch vụ nhiệt tình\t\t\t",
+        "address": "Lô C10, 6 Nguyễn Chánh, Khu đô thị Nam Trung Yên",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0915144060"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Đại học Sư Phạm Hà Nội",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá Đại Học Sư Phạm Hà Nội là một trong những sân bóng cỏ nhân tạo chất lượng cao trong hệ thống sân các trường đại học trên địa bàn Hà Nội. Đa số các sân phục vụ nhu cầu rèn luyện thê thao của sinh viên, công nhân viên trong trường và tổ chức các giải đấu thể thao giao hữu với các trường bạn.\t\t\t",
+        "address": "Khuôn viên Trường đại học Sư phạm Hà Nội, 136 Xuân Thuỷ, Cầu Giấy",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0985 764 873"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng cỏ nhân tạo FPT 1",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "ngã tư Trần Thái Tông - Tôn Thất Thuyết",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Bách Việt 1",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Hệ thống sân bãi đạt tiêu chuẩn\n\n• Sân cỏ nhân tạo mềm mại, màu xanh non mát mắt.\n\n• Hàng rào lưới chắn bóng tại sân được giảm chấn bằng dây cáp, giúp giảm độ nảy của bóng khi va chạm, đồng thời cũng tạo hàng rào an toàn cho cầu thủ.\n\n• Hệ thống chiếu sáng được thiết kê – thi công bởi đơn vị uy tín với nhiều năm kinh nghiệm. \n\n• Diện tích rộng rãi, đáp ứng tốt nhu cầu thuê sân để tổ chức các sự kiện: kỷ niệm, liên hoan văn hóa văn nghệ, hoạt động TDTT ngoài trời,.. đem lại hiệu quả cao cho các đơn vị đặt biển quảng cáo.\n\nDịch vụ chu đáo:\n\n• Hệ thống cung cấp đồ giải khát phong phú\n\n• Khu để xe: Bãi giữ xe rộng rãi và riêng biệt, được quản lý khoa học, đảm bảo có thể lưu trú 20 xe ô tô và trên 50 xe máy nên rất thích hợp làm một nơi tổ chức những giải bóng lớn.\n\n\t\t\t",
+        "address": "Ngã tư Nguyễn Chánh – Vũ Phạm Hàm kéo dài (cạnh tòa nhà B10A – B10B Nam Trung Yên)",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "04 6684 2507"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 5
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 5
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng số 1 Phạm Hùng",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Mỗi sân là 1 khu riêng biệt, rất ít khi có tình trạng cầu thủ bị phân tâm bởi... bóng của đội khác bay vào phần sân bên mình.\n\nSân nằm ở vị trí khá xa trung tâm, và nằm ngay mặt đường nên không tránh khỏi khói bụi từ những xe tải cỡ lớn thường xuyên đi qua.\n\nChất lượng ánh sáng của đèn cao áp phục vụ cho những trận đấu buổi tối là không thực sự tốt.\t\t\t",
+        "address": "Số 1 Phạm Hùng, chân cầu vượt Mai Dịch",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0985 531 619"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân Wembley Nam Trung Yên",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân Wembley Nam Trung Yên trong trường cấp 2 Nam Trung Yên cách Keangnam 200m \t\t\t",
+        "address": "Trường THCS Nam Trung Yên ",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0918721007 (Vũ)"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Trang Anh",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Đây là một trong những cụm sân có vị trí rất thuật lợi, nằm ngay sát Tòa nhà cao nhất Việt Nam – Keang Nam. Cụm sân cỏ nhân tạo Trang Anh mang đến cho các đội bóng những sân chơi bổ ích, thư giãn  sau những giờ làm việc căng thẳng tại văn phòng.\n\nMới được thàng lập không lâu, cụm sân bóng cỏ nhân tạo Trang Anh Luôn là điểm đến và là sự lựa chọn hàng đầu của các đội bóng quanh khu vực cũng như trong nội thành Hà Nội đến giao hữu.\n\nSân cỏ nhân tạo Trang Anh  Được thiết kế không gian 4 sân 7(96mx 56M) cụm sân bóng  cỏ nhân tạo  Huy Hoàng  được đầu tư rất chuẩn về cả chất lượng bề mặt sân cũng như bố cục kiến trúc xung quanh sân. Cỏ nhân tạo của sân được nhập mới nguyên theo tiêu chuẩn chất lượng FIFA \t\t\t",
+        "address": "Lô A7, Nguyễn Chánh ( ngay sau toà nhà KeangNam)",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            " An: 0909.996.546  – Tuấn Anh: 0982.362.210"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 4
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng cuối đường Trần Vỹ",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Trần Vỹ, Mai Dịch, Cầu Giấy1",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "097.68.61.007"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng FPT Hoàng Minh Giám",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "65 Hoàng Minh Giám, đối diện toà nhà Hoà Phát",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0903221983"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Trường An",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Lô D8, Nguyễn Phong Sắc, Dịch Vọng",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "005",
+        "district_name": "Cầu Giấy ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0976 382 128"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng TOP Group",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Chưa có mô tả chi tiết\t\t\t",
+        "address": "Ngã 3 Lê Văn Lương - Khuất Duy Tiến, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01256891616"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng 69 Hoàng minh giám",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "69 Hoàng minh giám , Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "097.68.61.007 - 0972.306.301"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Thống nhất",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng thống nhất là cụm sân bóng gồm 6 sân với diện tích, mặt cỏ và hệ thống chiếu sáng khá tốt. Sân nằm cùng đường vào sân bóng hoàng gia đối diện với phở lý quốc sư\t\t\t",
+        "address": "số 1 Hoàng Minh Giám",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "090.696.7776 - 0932281479"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Nhân Chính",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "186 Khuất Duy Tiến - Cạnh TTVH quận Thanh Xuân (cách ngã 4 Lê Văn Lương 100m)",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01222371159 "
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 2
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 8
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 8
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Trung tâm đào tạo Viettel 1",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng trung tâm đào tạo thể thao viettel 1 là sân bóng cỏ nhân tạo tại quận thanh xuân hà nội. Sân bóng được xây dựng với diện tích chuẩn gồm 6 sân trong đó có 5 sân khá rộng và mặt cỏ đẹp 1 sân xâu hơn chút, hệ thống chiếu sáng tốt\t\t\t",
+        "address": "Ngõ 155, Ngách 155/206 Trường Chinh - Cầu Phương Liệt - Thanh Xuân",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "097.68.61.007"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Tháng Giêng",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Chưa có mô tả chi tiết\t\t\t",
+        "address": "Số 25 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0904713268"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Sơn Trang 3",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": " Số 386, Nguyễn Xiển, Thanh Xuân, Hà Nội – Đối diện phố Hoàng Đạo Thành.",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0982.545.202 - 0904559222"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng 168 Khuất Duy Tiến",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    - Số lượng sân và kích thước: Sân bóng đá 168 KHUẤT DUY TIẾN bao gồm 2 sân 7 với kích thước rộng tiêu chuẩn ghép thành sân lớn \n\n- Giá thuê trung bình 1 sân 7 vào giờ Vàng từ 17h30 tới 20h30 hàng ngày là 700.000 VND/90 phút . Các khung giờ khác giá mềm hơn 400.000 VND/90 phút. Đặc biệt các bạn sẽ được mượn giầy đá free .Trường hợp khách hàng thuê để đá giải, tuỳ số lượng trận sẽ có những ưu đãi giảm giá riêng\n\n- Sân bóng đá 168 KHUẤT DUY TIẾN với chất lượng cỏ tiêu chuẩn, hệ thống thoát nước tốt, Mặt sân phẳng. Sân bóng đá 168 KHUẤT DUY TIẾN thực sự là 1 địa điểm tốt để đá bóng. \n\n- Sân bóng đá 168 KHUẤT DUY TIẾN được đầu tư hệ thống ánh sáng với 32 bóng đèn , đảm bảo ánh sáng  khi chơi vào buổi tối. \t\t\t",
+        "address": " 168 - Khuất Duy Tiến - Thanh Xuân - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0983142899 "
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Thượng Đình",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Không có mô tả chi tiết\t\t\t",
+        "address": "125 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "047542646"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Phòng Không Không Quân",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân Phòng không - Không quân 1 là một trong 2 sân bóng tiêu chuẩn của hệ thống sân bóng đá cỏ nhân tạo thuộc Sân Phòng không - Không quân. Các sân bóng tại đây được lắp đặt với loại cỏ chất lượng cao đáp ứng tốt các tiêu chí như mặt sân phẳng, cỏ trám đều, độ nẩy thấp, độ đàn hồi, thoát nước rất tốt. Dàn đèn được bố trí dày đều khắp quanh sân, mỗi sân con được lắp đặt 12 bóng đèn công suất lớn bật sáng vào bất kỳ thời gian nào trong ngày có thời tiết không thuận lợi và buổi tối nhằm đảm bảo điều kiện về ánh sáng cho các cầu thủ chơi bóng. Sân nằm trên khu đất rộng 6000m2 không gian thoáng đãng, nằm ngay cạnh khu chung cư và khu căn hồ liền kề bao bọc tạo nên một khung cảnh rất đẹp trên nền những trận đấu sôi nổi. Sân có chỗ đỗ ôtô và xe máy rộng rãi đáp ứng được cùng lúc đông đảo người chơi và khán giả đến xem, rất thuận tiện cho các giải đấu bóng. Nhân viên tại sân phục vụ nhanh nhẹn, tận tình, chu đáo\t\t\t",
+        "address": "Số 1 Trường Chinh , Khương Thượng, Quận Đống Đa Hà Nội.",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0989 836 795"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 8
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 8
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Kim Văn Kim Lũ",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Công trình sân bóng đá cỏ nhân tạo của Khu đô thị Kim Văn Kim Lũ được thi công từ tháng 10/2014 và đến tháng 3/2015 hoàn thành. Đây là sân bóng đá cỏ nhân tạo đầu của Khu đô thị Kim Văn Kim Lũ và là một trong những sân cỏ có tầm cỡ, quy mô, chất lượng đạt tiêu chuẩn quy định. Việc hoàn thành và đưa vào sử dụng sân bóng cỏ nhân tạo nhằm tạo một sân chơi bổ ích, lành mạnh, đáp ứng nhu cầu luyện tập thể thao của cư dân trong khu đô thị.\n\n\n\nSân bóng đá nhân tạo Kim Văn Kim Lũ đi vào hoạt động không chỉ tạo ra khu vui chơi rèn luyện thể thao mà còn đem lại sự văn minh, hiện đại cho khu đô thị góp phần giảm bớt tình hình thiếu sân bãi luyện tập thể dục thể thao của người dân trong khu đô thị Kim Văn Kim Lũ\t\t\t",
+        "address": "Khu đô thị Kim văn - Kim lũ - Nguyễn xiển - Thanh xuân - Hà nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0439994683"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Huy Hoàng Đại Kim",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "168 Nguyên Công Thái - Khu đô thị mới Đại Kim - Thanh Xuân - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0985291692"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Doanh trại Quân Đội",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Trường Chinh, Khương Trung, Thanh Xuân, Hà Nội ",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01675714197"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng MIC",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "379a, Lương Thế Vinh, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0982.492.498"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 6
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng nhà văn hoá Thanh Xuân",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "168 Khuất Duy Tiến, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            " 012.6625.5526 - 04.6291.0406"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 4
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Lê Văn Lương kéo dài",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "50 Tố Hữu, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 9
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 9
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Làng sinh viên Hacinco",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng làng sinh viên Hacinco gồm 3 sân với diện tích, mặt cỏ, cùng với hệ thống chiếu sáng khá tốt. Sân nằm ngay ngoài mặt đường Nguyễn Tuân rất thuận tiện cho việc đi lại và thuê sân\n\nsân chơi lý tưởng cho các bạn sinh viên, nơi tổ chức các hoạt động thường niên của công ty như Căn hộ sinh viên văn hoá Hacinco, các giải bóng đá Hacinco mở rộng...thu hút rất đông các cầu thủ nghiệp dư đến tham dự.\t\t\t",
+        "address": "190, Làng sinh viên Hacinco, Nguyễn Tuân, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "04 3557 4074 ‎"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng gần trường THPT Trung Văn",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Trường THPT Trung Văn - Lê Văn Lương kéo dài - Thanh Xuân",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Vạn Phúc",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t     - Vừa được thỏa mãn nhu cầu giải trí, vừa rèn luyện sức khỏe, đó cũng là mục tiêu phục vụ của sân Vạn Phúc với  mọi đối tượng, cả khách quốc tế cũng như những người dân Hà Nội. Ngoài ra khu Thể thao Vạn Phúc còn thường xuyên nhận tổ chức giải cho các đối nước ngoài cũng như các cơ quan đơn vị có nhu cầu tổ chức các giải đấu của mình. \n\n\n\n - Tại đây cũng có nhiều dịch vụ khác như ăn uống, bán đồ thể thao, tổ chức các cuộc hội họp giao lưu,...\t\t\t",
+        "address": "Số 73 Vạn Bảo, Ba Đình, Hà Nội ",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0438462737"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng 172 Lê Trọng Tấn",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "172 Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "009",
+        "district_name": "Thanh Xuân ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "Đang cập nhập"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Bằng B",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá Bằng B Hoàng Liệt với chất lượng cỏ tiêu chuẩn, hệ thống thoát nước tốt. Mặt sân phẳng, tuy nhiên, do quá trình sử dụng, hiện tại vẫn có những chỗ hơi lồi lõm làm giảm khả năng phán đoán bóng bật nảy trong quá trình đá. Theo thông tin mới nhất, sân được bắt đầu cải tạo, làm mới để phục vụ người chơi được tốt hơn. Đây là một tin vui với đại đa số anh em đã gắn bó với sân Bằng B. Hy vọng, không chỉ giá rẻ, sân Bằng B còn là sân cỏ chất lượng và dịch vụ tốt\n\nSân bóng đá Bằng B được đầu tư hệ thống ánh sáng với 10 bóng đèn/sân, đảm bảo ánh sáng  khi chơi vào buổi tối. Tuy nhiên, theo đánh giá của chúng tôi và tham khảo ý kiến người chơi, sân Bằng B sẽ rất tuyệt với với hệ thống từ 12-14 bóng do diện tích sân khá rộng so với diện tích mặt bằng sân cỏ nhân tạo chung tại Hà Nội\n\nNgoài ra, sân bóng đá Bằng B cũng được đầu tư khán đài quy mô nhỏ đặt giữa 2 sân. Cách thức bố trí như thế này rất phù hợp với đơn vị nào muốn tổ chức giải bóng đá quy mô công ty, đơn vị hành chính sự nghiệp nhà nướ\t\t\t",
+        "address": "Bằng B hoàng Liệt, Hoàng mai, Hà nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            " 01234682668"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Linh Đàm",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Đường Nguyễn Hữu Thọ kéo dài, Hoàng Liệt, Hoàng Mai, Hà Nội. Sân nằm trên đường Linh Đường ven hồ linh đàm đối diện bến xe nước ngầm",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0986.923.366"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Thông Tin",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân Cỏ nhân tạo- Sân Thông tin 195 Định Công Hạ 01694 854 854- Hà Nội\n\nkhung 17h30 - 19h giá 400k\n\nkhung 19h - 20h30 giá 600k \n\nkhung 20h30 -22h giá 400k \n\n- Tặng ngay 10 cốc bia tại quán bia sân bóng cho tất cả các đội đá tại sân. \n\nSĐT Liên Hệ . 01694 854 854\t\t\t",
+        "address": "195 Định Công Hạ - Hoàng Mai - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01694 854 854"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Đại Từ",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng Đại Từ nằm ở cuối đường Đặng Xuân Bảng, Linh Đàm, Hoàng Mai, Hà Nội.\t\t\t",
+        "address": "Đặng Xuân Bảng - Linh Đàm - Hoàng Mai - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01234.722.469 / 098.765.25.89"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng BKC",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá BKC với chất lượng cỏ tiêu chuẩn, hệ thống thoát nước tốt. Mặt sân phẳng, tuy nhiên vẫn có những chỗ hơi lồi lõm làm giảm khả năng phán đoán bóng bật nảy trong quá trình đá\n\nSân bóng đá BKC được đầu tư hệ thống ánh sáng tốt với 12 bóng đèn/sân, đảm bảo ánh sáng tốt khi chơi vào buổi tối.\t\t\t",
+        "address": "Linh Đường, Hoàng Liệt, Hoàng Mai, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01233 878 555"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 3
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Thúy Lĩnh",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng gồm 4 sân 7 và 1 sân 8 với diện tích chuẩn khá rộng, mặt sân và hệ thống chiếu sáng tốt. Sân nằm uối đường lĩnh nam đi qua đê một đoạn 200m rẽ phải là sân bóng (Đối diện chùa thúy lĩnh)\t\t\t",
+        "address": "Số 74 - Phố Thúy Lĩnh - Hoàng Mai - Hà nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0942572666"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 4
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Quân Đội Hoàng Mai",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    - Để tạo điều kiện cho tất cả mọi người đam mê trái bóng có được địa điểm thi đấu cũng như luyện tập. Chúng tôi ban quản lý sân bóng đá không quân 918 sẽ mở của vào đầu năm 2013, chính vì vậy kính mời mọi người cùng các đội bóng đến tham gia, để nâng cao thể lực, sức khỏe cũng như lòng đam mê bóng đá.\n\n- Sân bóng 7 người, cỏ nhân tạo (Đạt tiêu chuẩn), rộng rãi, thoáng mát.\n\n- Dịch vụ chu đáo, uy tín và thân thiện (Gủi xe,giải khát, bán vs cho thuê các dụng cụ thể thao, trọng tài…)\n\n- Thời gian cho thuê sân 6h30 đến 24h (tất cả các ngày trong tuần).\n\n- Giá rẻ thay đổi tùy theo khung giờ (từ: 200K – 600K/1h30)\n\n- Khuyến mại cho các đội bóng đặt sân theo tháng hoặc quý.\n\n- Giảm giá 20% cho Sinh viên, Học sinh đặt sân vào khoảng thời gian từ 6h30 đến 15h30. (Khi đặt sân mang theo thẻ).\n\n- Tặng 50k cho cầu thủ ghi bàn đầu tiên trong ngày.\t\t\t",
+        "address": "Số 1/299 Đường Hoàng Mai, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0973318823"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 10
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 10
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Hồ Đền Lừ",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng gồm 4 sân khá rộng, mặt cỏ diện tích tốt. Sân nằm ngay bên hồ đền lừ rất thuận tiện cho các phương tiện\t\t\t",
+        "address": "Đền Lừ, Hoàng Mai, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "008",
+        "district_name": "Hoàng Mai",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Văn Quán",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng Văn Quán chỉ có 1 sân duy nhất với diện tích khá rộng hệ thống chiếu sáng và mặt cỏ được đầu tư tốt. Sân nằm cách hồ văn quán chừng 500m\t\t\t",
+        "address": "19/5 Văn Quán (cách hồ Văn Quán 500m), Hà Đông, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "268",
+        "district_name": "Hà Đông",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0917483333"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 1
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Học Viện An Ninh Nhân Dân",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá cỏ nhân tạo C500 đã chính thức đi vào hoạt động từ năm 2012, là một trong những sân cỏ nhân tạo đẹp nhất tại Hà Nội :\n\n_  Dàn đèn cực sáng với 4 cột đèn cao áp tiêu chuẩn\n\n_  Kích thước sân rộng theo tiêu chuẩn sân mini 7 người\n\n_  Chất lượng cỏ theo tiêu chuẩn FIFA, mặt cỏ êm nhất.\n\n_  Khán đài có mái che với sức chứa 5000 chỗ ngồi.\n\n_  Sân được đảm bảo an ninh tuyệt đối bởi các chiến sỹ công an.\n\nSân bóng C500 đã được lựa chọn để tổ chức các giải bóng đá phong trào lớn nhất Hà Nội như giải bóng đá Thăng Long, giải bóng đá cúp Hồ Gươm.....\t\t\t",
+        "address": "Cổng sau Học viện An ninh nhân dân, đường 19-5, Văn Quán, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "268",
+        "district_name": "Hà Đông",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0904.611.787 - 099.333.1115"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Xuân Đỉnh",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng Xuân Đỉnh với diện tích tổng thể là 106x87(m) gồm có 4 sân 7 người và 2 sân 9 người  với chất lượng sân rất tốt.\t\t\t",
+        "address": "Đường Xuân Đỉnh - Từ Liêm - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "021",
+        "district_name": "Bắc Từ Liêm",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0904055556"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Cổ Nhuế",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Đi vào ngõ 141 Phạm Văn Đồng, đến cửa doanh trại quân đội rẽ phải 50m.\t\t\t",
+        "address": "Xóm 8B, Cổ Nhuế, Huyện Từ Liêm, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "021",
+        "district_name": "Bắc Từ Liêm",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng CT6 - Sông Đà - Mỹ Đình",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Quần thể sân gồm 4 sân diện tích mặt có khá, hệ thống chiếu sáng khá. Sân năm đằng sau Bigc Garden bên cạnh nhà văn hóa thôn đối diện và tòa nhà CT6 Sông Đà Mỹ Đình\t\t\t",
+        "address": "CT6 Mỹ Đình - Từ Liêm - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng TCFC",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Là Sân Bóng tiêu chuẩn dành cho 7 người với đội ngũ trọng tài chuyên nghiệp thuộc Liên Đoàn Bóng Đá Hà Nội. Có đầy đủ điều kiện cơ sở vật chất để tổ chức các Giải Bóng Đá cho các  công ty.\t\t\t",
+        "address": "Số 1 Lê Quang Đạo, Mễ Trì, Từ Liêm, Hà Nội ",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "01677806012"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng STCOM",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá cỏ nhân tạo STCom, Mễ Trì là sân 7 người lý tưởng cho các nhóm cầu thủ mong muốn được đá sân chất lượng. Nằm ngay đại lộ Thăng Long rộng lớn sẽ rất thuận tiện cho việc di chuyển, đi lại. Giá thuê sân vào những giờ không phải cao điểm chỉ có 150.000 đ, rất rẻ so với mặt bằng chung.\n\n\n\nSân bóng đá STCom nằm trong khu vực km số 1 Đại lộ Thăng Long. Nếu bạn đi từ hướng BigC đến thì sân nằm ngược hướng đi, phải đi ra Lê Quang Đạo và quay lại. Sân nằm chưa phía bên này cầu vượt. \t\t\t",
+        "address": "KM số 1, Đại Lộ Thăng Long, Mễ Trì, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0974018117"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng KSport",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Hiện nay trên địa bàn thành phố có rất nhiều cụm sân cỏ nhân tạo phục vụ nhu cầu chơi bóng của các bạn trẻ. Trong đó nổi bật nhất là cụm sân KSPORT (Lê Quang Đạo, Mễ Trì, Từ Liêm, Hà nội). Nằm ngay trên mặt đường lớn, với không gian thoáng mát và đẹp mắt, sân KSPORT là hệ thống sân bao gồm 06 sân bóng đá mini và 01 sân 11 người. Nơi đây phục vụ chủ yếu  nhu cầu thể thao cho các bạn trẻ tại khu vực Từ Liêm, Cầu Giấy, Hoài Đức và Thanh Xuân.\t\t\t",
+        "address": " Lê Quang Đạo, Mễ Trì, Từ Liêm, Hà nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0904666550"
+        ],
+        "types": [{
+                "id": 3,
+                "name": "Sân 11",
+                "quantity": 1
+            },
+            {
+                "id": 1,
+                "name": "Sân 7",
+                "quantity": 6
+            }
+        ],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 6
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Mirolin",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Để nâng cao chất lượng phục vụ ngày càng tốt hơn đáp ứng được mọi nhu cầu của Quý khách hàng, chúng tôi đưa thêm 04 sân bóng đá mini 7 người với kích thước tiêu chuẩn (26×47) vào hoạt động nâng tổng số sân bóng đá cỏ nhân tạo đạt tiêu chuẩn FIFA hiện có tại Mirolin Sport Club – Đường Lê Đức Thọ – Từ Liêm – Hà Nội (đối diện sân vận động Mỹ Đình) là 07 sân 7 người. Ngoài ra, chúng tôi cũng bắt đầu đưa hệ thống dịch vụ khép kín: gửi đồ, tắm 3*, dịch vụ cho thuê bóng, quần áo, nhà hàng… vào khai thác.\t\t\t",
+        "address": "Khu LH thể thao quốc gia, Lê Đức Thọ, Từ Liêm, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0166 303 5858"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 7
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 7
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Mỹ Đình 2",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    - Số lượng sân và kích thước: Sân bóng đá MỸ ĐÌNH 2 bao gồm 3 sân 7 với kích thước rộng tiêu chuẩn 25,8m x 48,5m ghép thành sân lớn \n\n- Giá thuê trung bình 1 sân 7 vào giờ Vàng sau 17h hàng ngày là 700.000 VND/90 phút. Với Khung giờ ban ngày, giá thuê mềm hơn dao động từ 300.000 VND đến 500.000 VND /90 Phút. Trường hợp khách hàng đặt sân theo tháng và để đá giải, tuỳ số lượng trận sẽ có những ưu đãi giảm giá riêng\n\n- Sân bóng đá MỸ ĐÌNH 2 được đầu tư hệ thống ánh sáng hoàn thiện và kiên cố, đảm bảo ánh sáng  khi chơi vào buổi tối..\t\t\t",
+        "address": "P2 Lê Quang Đạo, Mỹ Đình, Từ Liêm, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0966116365"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Bến Xe Mỹ Đình",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Cần cho thuê sân cỏ nhân tạo,tiêu chuẩn FiFa,cách bến xe Mỹ Đình 50m,hướng Mỹ Đình đi Bigc. Gồm 2 sân cỏ nhân tạo và 1 sân đất,có chỗ để ô tô,xe máy.Vị Trí đẹp thuận tiện giao thông(Ngay mặt đường Phạm Hùng),ưu tiên cho các trường Đại Học và các cty lân cận,khu vực Cầu Giấy,Từ Liêm,Mỹ Đình.\t\t\t",
+        "address": "Đình Thôn - Từ Liêm - Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0949042686"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Minh Hiếu",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Sau tòa nhà Keangnam-  Phạm Hùng, Xã Mễ Trì, Huyện Từ Liêm, Hà Nội.",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0975678585"
+        ],
+        "types": [],
+        "stadium_type": {
+            "id": 0,
+            "name": "",
+            "quantity": 0
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Thành Lâm VTC",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng Thành Lâm VTC  là một trong những sân cỏ nhân tạo đầu tiên tại Hà Nội. Nằm ở một vị trí trong khu đô thị Mỹ Đình, với 4 sân 7 người rất đông khách. Tuy nhiên, về địa điểm gửi xe hơi bất tiện do sân gửi xe nhỏ, khi đông người đến thì phải gửi ở ngoài và khi trời mưa chỗ gửi xe bị ngập bùn bẩn.\t\t\t",
+        "address": "Nhân Mỹ, Mỹ Đình 2, Từ Liêm, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0985136869"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Phú Hưng",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    - Sân bóng cỏ nhân tạo Phú Hưng vừa được thi công hoàn thiện với hệ thống cỏ đạt tiêu chuẩn FiFa.\n\n- 2 sân đã đi vào hoạt động, phục vụ nhu cầu tập luyện, thi đấu và tổ chức các giải đấu bóng đá mini với thể thức 7 người, 5 người tùy nhu cầu.\n\n- Kích thước sân 25 x 45.\n\n- Sử dụng cỏ nhân tạo theo tiêu chuẩn do FIFA quy định, đạt độ chuẩn về số lượng sợi cỏ, trọng lượng cỏ, độ dài cỏ...\n\n- Sử dụng cát, hạt cao su theo quy định, chống trơn, trượt, hạn chế chấn thương khi ngã, va chạm và đảm bảo thoát nước, mặt sân luôn bằng phẳng.\n\n* Khách không phải trả thêm khoản nào từ tiền sân ( chỉ mất thêm tiền vé xe 3000đ/ chiếc và trả tiền nước ( nếu uống nước của sân)\t\t\t",
+        "address": "Số 8, Lê Quang Đạo, Mỹ Đình, Từ Liêm, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0943 205 058"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 2
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Hoàng Phong",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    \t\t\t",
+        "address": "Trần Hữu Dực, Mỹ Đình, Từ Liêm, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 4
+        }
+    },
+    {
+        "id": "",
+        "name": "Sân bóng Hưng Vượng",
+        "logo": "",
+        "cover": "",
+        "description": "\n\t\t\t    Sân bóng đá Hưng Vượng với 3 sân cỏ nhân tạo êm ái, hạn chế gây chấn thương, hệ thống cỏ và anh sáng đat tiêu chuẩn FIFA hệ thống căngtin và nhà wc sạch sẽ rộng rãi , có chỗ ngồi và bãi để xe rộng rãi dành cho người chơi và cổ động viên\n\n– Thâm niên hoạt động 1 năm, mặt sân và các cơ sở hạ tầng vẫn còn mới\n\n– Các sân cỏ nhân tạo xây dựng với kích thước nhỏ, mỗi sân đá đội 7 người, giúp bạn vừa dễ dàng thành lập đội lại vừa dễ chơi.\n\n– Ngoài ra, mặt cỏ tại các sân đều được chăm sóc kỹ lưỡng, cỏ mượt và mặt sân phẳng, êm ái tạo cho cầu thủ cảm giác bóng tốt.\n\n– Sân cỏ nhân tạo sạch, ngay cả khi trời mưa, các cầu thủ cũng không lo mặt sân đọng nước ngăn cản đường bóng lăn và bẩn quần áo, giầy.\t\t\t",
+        "address": "Số 1 Lê Quang Đạo, Mễ Trì, Từ Liêm, Hà Nội",
+        "province_id": "01",
+        "province_name": "Hà Nội",
+        "district_id": "019",
+        "district_name": "Nam Từ Liêm ",
+        "lat": 0,
+        "lng": 0,
+        "map_id": "",
+        "hotlines": [
+            "0988274836"
+        ],
+        "types": [{
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }],
+        "stadium_type": {
+            "id": 1,
+            "name": "Sân 7",
+            "quantity": 3
+        }
+    }
+]

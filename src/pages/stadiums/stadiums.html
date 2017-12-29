@@ -1,0 +1,23 @@
+<ion-header>
+
+    <ion-navbar color="primary">
+        <ion-title>Stadiums</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content no-bounce style="position: relative">
+    <div class="add-btn" (click)="onClickAdd()">
+        <span style="font-size: 2em">+</span>
+    </div>
+    <div padding class="stadium-list">
+        <h3>Danh sách các sân bóng</h3>
+        <ion-list>
+            <ion-item *ngFor="let stadium of mStadiums | async ; let i = index" (click)="onClickStadium(stadium)">
+                {{i+1}}. {{stadium.name}}
+            </ion-item>
+        </ion-list>
+    </div>
+
+</ion-content>

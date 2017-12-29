@@ -1,0 +1,38 @@
+{
+    "squad_types": [
+        { "id": 0, "name": "Sân 5" },
+        { "id": 1, "name": "Sân 7" },
+        { "id": 2, "name": "Sân 9" },
+        { "id": 3, "name": "Sân 11" }
+    ],
+    "stadium_types": [
+        { "id": 0, "name": "Sân 5" },
+        { "id": 1, "name": "Sân 7" },
+        { "id": 2, "name": "Sân 9" },
+        { "id": 3, "name": "Sân 11" }
+    ],
+    "match_states": [
+        { "id": -1, "name": "Bị hủy" },
+        { "id": 0, "name": "Chưa diễn ra" },
+        { "id": 1, "name": "Đang diễn ra" },
+        { "id": 2, "name": "Kết thúc" },
+        { "id": 3, "name": "Bị hoãn" }
+    ],
+    "club_states": [
+        { "id": 0, "name": "Đang hoạt động" },
+        { "id": 1, "name": "Ngưng hoạt động" }
+    ],
+    "league_states": [
+        { "id": 0, "name": "Sắp diễn ra" },
+        { "id": 1, "name": "Đang khởi tranh" },
+        { "id": 2, "name": "Kết thúc" }
+    ],
+    "player_state_in_clubs": [
+        { "id": 0, "name": "Đang chơi" },
+        { "id": 1, "name": "Đợi tham gia" },
+        { "id": 2, "name": "Đã rời CLB" },
+        { "id": 3, "name": "Bị ban, khóa" }
+    ]
+
+
+}

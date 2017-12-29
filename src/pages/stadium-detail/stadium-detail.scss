@@ -1,0 +1,126 @@
+page-stadium-detail {
+    .logo {
+        min-height: 3em;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+    }
+    .logo:hover {
+        .edit {
+            width: 100%;
+            ion-icon {
+                display: block;
+            }
+        }
+    }
+    .image-noti {
+        width: 100%;
+        height: 100px;
+        border: 2px solid gray;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+    .cover {
+        min-height: 3em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        img {
+            max-height: 50vh;
+        }
+    }
+    .cover:hover {
+        .edit {
+            width: 100%;
+            ion-icon {
+                display: block;
+            }
+        }
+    }
+    .item {
+        padding: 0 10px;
+        margin: 10px 0;
+        // position: relative;
+        .btn {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            padding: 3px 16px;
+            border-radius: 2px;
+            background: #488aff;
+            color: white;
+        }
+        .btn:hover {
+            background: #166aff;
+        }
+        input {
+            width: 100%;
+        }
+        select {
+            max-width: 100%;
+        }
+    }
+    ion-label {
+        font-weight: bold;
+    }
+    .hotline {
+        margin: 6px 0;
+    }
+    .container {
+        padding: 10px;
+    }
+    .description {
+        margin: 16px 0;
+    }
+    .stadium-type {
+        ion-label {
+            color: black !important;
+        }
+        .item-cover {
+            left: initial;
+            // right: 0;
+            width: 7em;
+        }
+    }
+    .uncheck-type {
+        color: black !important;
+        .item-inner {
+            border-bottom-color: gray !important;
+            -webkit-box-shadow: inset 0 -1px 0 0 gray !important;
+            box-shadow: inset 0 -1px 0 0 gray !important;
+        }
+    }
+    [no-padding-side] {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    [no-margin] {
+        margin: 0;
+    }
+    .border-right {
+        border-right: 1px solid black;
+    }
+    .edit {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 100%;
+        background-color: rgba(black, .4);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2em;
+        color: white;
+        transition: all 0.3s;
+        ion-icon {
+            display: none;
+        }
+    }
+}

@@ -1,0 +1,17 @@
+<ion-header>
+
+    <ion-navbar color="primary">
+        <ion-title>Firebase Connect</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <h1>Danh mục chức năng</h1>
+    <ion-list>
+        <ion-item *ngFor="let item of items; let i = index" (click)="onClickItem(item)">
+            {{i+1}}. {{item.name}}
+        </ion-item>
+    </ion-list>
+</ion-content>

@@ -1,0 +1,16 @@
+<ion-header>
+
+    <ion-navbar color="primary">
+        <ion-title>{{mProvince.name}}</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <ion-list no-lines>
+        <ion-item *ngFor="let item of mDistricts | async; let i = index">
+            {{i+1}} {{item.name}} ({{item.code}})
+        </ion-item>
+    </ion-list>
+</ion-content>

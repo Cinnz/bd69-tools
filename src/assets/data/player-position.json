@@ -1,0 +1,20 @@
+{
+    "positions": [
+        { "id": "GK", "abbr": "GK", "name": "Thủ môn", "en_name": "Goal Keeper" },
+        { "id": "CB", "abbr": "CB", "name": "Trung vệ", "en_name": "Centre Back" },
+        { "id": "SW", "abbr": "SW", "name": "Hậu vệ quét", "en_name": "Sweeper" },
+        { "id": "LB", "abbr": "LB", "name": "Hậu vệ trái", "en_name": "Left Back" },
+        { "id": "RB", "abbr": "RB", "name": "Hậu vệ phải", "en_name": "Right Back" },
+        { "id": "LWB", "abbr": "LWB", "name": "Hậu vệ trái tự do", "en_name": "Left Wing Back" },
+        { "id": "RWB", "abbr": "RWB", "name": "Hậu vệ phải tự do", "en_name": "Right Wing Back" },
+        { "id": "DM", "abbr": "DM", "name": "Tiền vệ phòng ngự", "en_name": "Defensive Midfield" },
+        { "id": "CM", "abbr": "CM", "name": "Tiền vệ trung tâm", "en_name": "Centre Midfield" },
+        { "id": "AM", "abbr": "AM", "name": "Tiền vệ tấn công", "en_name": "Attacking Midfield" },
+        { "id": "LM", "abbr": "LM", "name": "Tiền vệ trái", "en_name": "Left Midfield" },
+        { "id": "RM", "abbr": "RM", "name": "Tiền vệ phải", "en_name": "Right Midfield" },
+        { "id": "LW", "abbr": "LW", "name": "Tiền đạo cánh trái", "en_name": "Left Wing" },
+        { "id": "RW", "abbr": "RW", "name": "Tiền đạo cánh phải", "en_name": "Right Wing" },
+        { "id": "SS", "abbr": "SS", "name": "Tiền đạo lùi", "en_name": "Second Striker" },
+        { "id": "CF", "abbr": "CF", "name": "Tiền đạo cắm", "en_name": "Centre Forward" }
+    ]
+}

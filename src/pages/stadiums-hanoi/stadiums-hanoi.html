@@ -1,0 +1,16 @@
+<ion-header>
+
+    <ion-navbar color="primary">
+        <ion-title>Danh sách các Quận, Huyện của Hà Nội ({{totalStadium}})</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <ion-list no-lines>
+        <ion-item *ngFor="let item of district; let i = index" (click)="onClickDistrict(item)">
+            {{i+1}}. {{item.name}} ({{item.noStadium}})
+        </ion-item>
+    </ion-list>
+</ion-content>

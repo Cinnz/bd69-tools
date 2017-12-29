@@ -1,0 +1,21 @@
+<ion-header>
+
+    <ion-toolbar color="primary">
+        <ion-buttons start left (click)="onClickBack()">
+            <button ion-button icon-only><ion-icon name="home"></ion-icon></button>
+        </ion-buttons>
+        <ion-title>Việt Nam</ion-title>
+    </ion-toolbar>
+
+</ion-header>
+
+
+
+<ion-content padding>
+    <h3>Danh sách các tỉnh thành</h3>
+    <ion-list>
+        <ion-item *ngFor="let province of mProvinces | async ; let i = index" (click)="onClickProvince(province)">
+            {{i+1}}. {{province.name}} ({{province.code}})
+        </ion-item>
+    </ion-list>
+</ion-content>

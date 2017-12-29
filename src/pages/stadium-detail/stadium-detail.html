@@ -1,0 +1,89 @@
+<ion-header>
+
+    <ion-navbar color="primary">
+        <ion-title (click)="onClickTitle()">{{mStadium.name}}</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+    <ion-grid no-padding-side>
+        <ion-row>
+            <ion-col class="border-right" no-padding-side col-5 col-sm-4 col-lg-3>
+                <div class="logo">
+                    <img *ngIf="mStadium.logo" [src]="mStadium.logo">
+                    <div *ngIf="!mStadium.logo" class="image-noti">
+                        <span>Chưa có logo sân</span>
+                    </div>
+                    <div class="edit" (click)="onClickEditLogo()">
+                        <ion-icon name="md-create"></ion-icon>
+                    </div>
+                </div>
+                <div class="item">
+                    <input type="text" [(ngModel)]="mStadium.name">
+                </div>
+                <div class="item">
+                    <ion-label>Hotlines</ion-label>
+                    <div class="btn" (click)="onClickAddHotline()">
+                        <ion-icon name="md-add"></ion-icon>
+                    </div>
+                    <div *ngFor="let hotline of mStadium.hotlines;let i = index">
+                        <input class="hotline" type="text" name="hl-{{i}}" [(ngModel)]="mStadium.hotlines[i]" placeholder="{{mDatas.emptyHotline}}">
+                    </div>
+                </div>
+                <div class="item">
+                    <ion-label>Địa chỉ</ion-label>
+                    <div class="btn" (click)="onClickAddress()">
+                        <ion-icon name="md-create"></ion-icon>
+                    </div>
+                    <div>
+                        <input readonly class="hotline" type="text" [(ngModel)]="mStadium.address">
+                    </div>
+                </div>
+                <div class="item">
+                    <ion-label>Quận huyện</ion-label>
+                    <div>
+                        <select ion-input required [(ngModel)]="mStadium.district_id" name="district" id="district-select">
+                            <option *ngFor="let district of mDistricts | async; let i = index" value="{{district.code}}">{{district.name}}</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="item" style="margin-top: 16px">
+                    <button ion-button full>{{mDatas.save}}</button>
+                </div>
+            </ion-col>
+            <ion-col col-7 col-sm-8 col-lg-9>
+                <div class="container">
+                    <div class="cover">
+                        <img *ngIf="mStadium.cover" [src]="mStadium.cover">
+                        <div *ngIf="!mStadium.cover" class="image-noti">
+                            <span>Chưa có ảnh bìa</span>
+                        </div>
+                        <div class="edit" (click)="onClickEditCover()">
+                            <ion-icon name="md-create"></ion-icon>
+                        </div>
+                    </div>
+                    <ion-label>Mô tả sân</ion-label>
+                    <div class="description">
+                        <textarea style="max-width:100%; width: 100%; max-height: 20vh" placeholder="{{mDatas.description}}" [(ngModel)]="this.mStadium.description"></textarea>
+                    </div>
+                    <ion-label>Loại sân</ion-label>
+                    <ion-row>
+                        <ion-col col-12 col-sm-6 col-lg-4>
+                            <!-- <ion-list> -->
+
+                            <ion-item no-margin class="stadium-type" *ngFor="let type of mStadiumType" [class.uncheck-type]="!type.status">
+                                <ion-label>{{type.name}}</ion-label>
+                                <ion-input *ngIf="type.status" type="number" min="0" max="100" placeholder="{{mDatas.stadiumType}}" [(ngModel)]="type.quantity"></ion-input>
+                                <ion-checkbox [(ngModel)]="type.status" (ionChange)="updateTypeStatus(type.id)"></ion-checkbox>
+                            </ion-item>
+
+                            <!-- </ion-list> -->
+                        </ion-col>
+                    </ion-row>
+                </div>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+</ion-content>
