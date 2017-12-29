@@ -1,5 +1,5 @@
 page-bdp-input-address {
-    $header-height: 90px; // header & segment
+    $header-height: 56px; // header & segment
     $searchbar-height: 60px;
     $map-height: calc(100% - 90px);
     $content-height: calc(100% - 150px);
@@ -13,7 +13,7 @@ page-bdp-input-address {
     .search-box-container {
         // height: $searchbar-height;
         width: 100%;
-        margin-top: $header-height;
+        // margin-top: $header-height;
         z-index: 100;
         // padding: 8px 0;
         background: #EEF3F9;
@@ -174,9 +174,114 @@ page-bdp-input-address {
         color: #aaa;
         cursor: auto;
     }
-    .test {
-        width: 100%;
+    .n-header {}
+    .a3-container {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        display: -webkit-flex;
+    }
+    .a3-items-start {
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -webkit-align-items: flex-start;
+    }
+    .a3-items-end {
+        -webkit-box-align: end;
+        -ms-flex-align: end;
+        align-items: flex-end;
+        -webkit-align-items: flex-end;
+    }
+    .a3-items-center {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-align-items: center;
+    }
+    .a3-items-stretch {
+        -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+        align-items: stretch;
+        -webkit-align-items: stretch;
+    }
+    .a3-items-baseline {
+        -webkit-box-align: baseline;
+        -ms-flex-align: baseline;
+        align-items: baseline;
+        -webkit-align-items: baseline;
+    }
+    .a3-items-inherit {
+        -webkit-box-align: inherit;
+        -ms-flex-align: inherit;
+        align-items: inherit;
+        -webkit-align-items: inherit;
+    }
+    /*Align Content*/
+    .a3-content-start {
+        -ms-flex-line-pack: start;
+        align-content: flex-start;
+        -webkit-align-content: flex-start;
+    }
+    .a3-content-center {
+        -ms-flex-line-pack: center;
+        align-content: center;
+        -webkit-align-content: center;
+    }
+    .a3-content-end {
+        -ms-flex-line-pack: end;
+        align-content: flex-end;
+        -webkit-align-content: flex-end;
+    }
+    .a3-content-stretch {
+        -ms-flex-line-pack: stretch;
+        align-content: stretch;
+        -webkit-align-content: stretch;
+    }
+    .a3-content-between {
+        -ms-flex-line-pack: justify;
+        align-content: space-between;
+        -webkit-align-content: space-between;
+    }
+    .a3-content-around {
+        -ms-flex-line-pack: distribute;
+        align-content: space-around;
+        -webkit-align-content: space-around;
+    }
+    /*Justify content*/
+    .a3-justify-start {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -webkit-justify-content: flex-start;
+    }
+    .a3-justify-center {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-justify-content: center;
+    }
+    .a3-justify-end {
+        -webkit-box-pack: end;
+        -ms-flex-pack: end;
+        justify-content: flex-end;
+        -webkit-justify-content: flex-end;
+    }
+    .a3-justify-between {
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        -webkit-justify-content: space-between;
+    }
+    .a3-justify-around {
+        -ms-flex-pack: distribute;
+        justify-content: space-around;
+        -webkit-justify-content: space-around;
+    }
+    .a1-absolute {
         position: absolute;
-        top: 100px;
+    }
+    .a1-top {
+        top: 0px;
     }
 }

@@ -47,18 +47,6 @@ page-stadium-detail {
         padding: 0 10px;
         margin: 10px 0;
         // position: relative;
-        .btn {
-            position: absolute;
-            right: 10px;
-            top: 10px;
-            padding: 3px 16px;
-            border-radius: 2px;
-            background: #488aff;
-            color: white;
-        }
-        .btn:hover {
-            background: #166aff;
-        }
         input {
             width: 100%;
         }
@@ -66,11 +54,36 @@ page-stadium-detail {
             max-width: 100%;
         }
     }
+    .btn {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        padding: 3px 16px;
+        border-radius: 2px;
+        background: #488aff;
+        color: white;
+    }
+    .btn:hover {
+        background: #166aff;
+    }
     ion-label {
         font-weight: bold;
     }
     .hotline {
         margin: 6px 0;
+        display: flex;
+        input {
+            width: 80%;
+        }
+        .btn-remove {
+            width: 15%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .btn-remove:hover {
+            color: red;
+        }
     }
     .container {
         padding: 10px;
@@ -121,6 +134,31 @@ page-stadium-detail {
         transition: all 0.3s;
         ion-icon {
             display: none;
+        }
+    }
+    .album-container {
+        height: 20vh;
+        width: 100%;
+        border: 1px solid;
+        overflow-x: auto;
+        overflow-y: hidden;
+        padding: 10px 0 10px 10px;
+        display: flex;
+        .album-img {
+            min-width: 30vh;
+            height: 100%;
+            background-size: cover;
+            background-repeat: no-repeat;
+            margin-right: 10px;
+            position: relative;
+        }
+        .album-img:hover {
+            .edit {
+                width: 100%;
+                ion-icon {
+                    display: block;
+                }
+            }
         }
     }
 }

@@ -82,7 +82,8 @@ export class StadiumsPage {
             map_id: stadiumData.map_id,
             hotlines: stadiumData.hotlines,
             types: stadiumData.types,
-            stadium_type: stadiumData.stadium_type
+            stadium_type: stadiumData.stadium_type,
+            album: stadiumData.album ? stadiumData.album : []
           }
           stadiums.push(stadium);
         }
@@ -124,7 +125,7 @@ export class StadiumsPage {
   }
 
   onClickAdd() {
-    console.log("add", {data: this.districtCode});
-    
+    console.log("add", { data: this.districtCode });
+
   }
 }

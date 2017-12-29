@@ -28,8 +28,11 @@
                     <div class="btn" (click)="onClickAddHotline()">
                         <ion-icon name="md-add"></ion-icon>
                     </div>
-                    <div *ngFor="let hotline of mStadium.hotlines;let i = index">
-                        <input class="hotline" type="text" name="hl-{{i}}" [(ngModel)]="mStadium.hotlines[i]" placeholder="{{mDatas.emptyHotline}}">
+                    <div class="hotline" *ngFor="let hotline of mStadium.hotlines;let i = index;trackBy: trackByIndex">
+                        <input type="text" placeholder="{{mDatas.emptyHotline}}" [(ngModel)]="mStadium.hotlines[i]">
+                        <div class="btn-remove" (click)="onClickRemoveHotline(i)">
+                            <ion-icon name="md-close"></ion-icon>
+                        </div>
                     </div>
                 </div>
                 <div class="item">
@@ -50,7 +53,7 @@
                     </div>
                 </div>
                 <div class="item" style="margin-top: 16px">
-                    <button ion-button full>{{mDatas.save}}</button>
+                    <button ion-button full (click)="onClickSave()">{{mDatas.save}}</button>
                 </div>
             </ion-col>
             <ion-col col-7 col-sm-8 col-lg-9>
@@ -82,6 +85,21 @@
                             <!-- </ion-list> -->
                         </ion-col>
                     </ion-row>
+                    <div>
+                        <ion-label style="float: left">Album</ion-label>
+                        <div style="float: left">
+                            <div class="btn" style="position: relative; margin-left: 16px;" (click)="onClickAddAlbumImg()">
+                                <ion-icon name="md-add"></ion-icon>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="album-container">
+                        <div class="album-img" *ngFor="let img of this.mStadium.album;let i = index" [ngStyle]="{'background-image': 'url(' + img + ')'}">
+                            <div class="edit" style="transition: none" (click)="onClickRemoveImg(i)">
+                                <ion-icon name="md-trash"></ion-icon>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </ion-col>
         </ion-row>

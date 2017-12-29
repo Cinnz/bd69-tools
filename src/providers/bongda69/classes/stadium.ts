@@ -40,5 +40,7 @@ export class Stadium extends FirebaseObject {
     /**Loại sân */
     types: Array<StadiumType>;
     /**Loại sân chính */
-    stadium_type : StadiumType;
+    stadium_type: StadiumType;
+    /**Album */
+    album: Array<string>;
 }
