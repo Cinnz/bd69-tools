@@ -94,6 +94,6 @@ export class StadiumsHanoiPage {
   }
 
   onClickDistrict(item) {
-    this.navCtrl.push("StadiumsPage", { data: item.code });
+    this.navCtrl.push("StadiumsPage", { data: item.code, name: item.name });
   }
 }

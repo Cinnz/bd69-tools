@@ -130,35 +130,62 @@ export class StadiumDetailPage {
       // console.log(JSON.stringify(this.mStadium));
     }
     else {
-      this.mStadium = {
-        "address": "16/67 phố Quảng An, Tây Hồ, Hà Nội",
-        "cover": "https://firebasestorage.googleapis.com/v0/b/bdp-tools.appspot.com/o/BDP-Banner%2Fbanner.jpg?alt=media&token=414baf34-5288-4cc0-956b-6e359f81eb84",
-        // "cover": "",
-        "description": "\n\t\t\t    Sân Quảng An có ưu điểm là sở hữu 2 sân với diện tích khác nhau. Một sân ngắn nhưng rộng và một sân dài hơn, phù hợp cho những bạn quen thi đấu trong không gian hẹp và những bạn thích những pha đi bóng tốc độ cùng những đường chuyền dài vượt tuyến. Khung thành của sân Quảng An cũng được đầu tư khá tốt tạo cảm giác chụp gôn cho các thủ môn.\t\t\t",
-        "district_id": "001",
-        "district_name": "Ba Đình",
-        "firebase_id": "ue14vfwDkVjLwSPurlne",
-        "hotlines": ["0123456789"],
-        "id": "6TXCT5S6nk8ItnFuC0Zb",
-        "lat": 0,
-        "lng": 0,
-        "logo": "http://vietfootball.vn/data/uploads/2017/12/AC7Y2980.jpg",
-        // "logo": "",
-        "map_id": "",
-        "name": "Sân bóng Quảng An",
-        "province_id": "01",
-        "province_name": "Hà Nội",
-        "stadium_type": { "id": 1, "name": "Sân 7", "quantity": 2 },
-        "types": [{ "id": 1, "name": "Sân 7", "quantity": 2 }],
-        "album": ["http://vietfootball.vn/data/uploads/2017/12/AC7Y2980.jpg", "http://vietfootball.vn/data/uploads/2017/12/AC7Y2980.jpg", "http://vietfootball.vn/data/uploads/2017/12/AC7Y2980.jpg", "http://vietfootball.vn/data/uploads/2017/12/AC7Y2980.jpg", "http://vietfootball.vn/data/uploads/2017/12/AC7Y2980.jpg", "http://vietfootball.vn/data/uploads/2017/12/AC7Y2980.jpg"]
-      };
+      if (navParams.data['district']) {
+        this.mStadium = {
+          "address": "",
+          "cover": "",
+          "description": "",
+          "district_id": navParams.data['district'],
+          "district_name": navParams.data['name'],
+          "firebase_id": "",
+          "hotlines": [],
+          "id": "",
+          "lat": 0,
+          "lng": 0,
+          "logo": "",
+          "map_id": "",
+          "name": "",
+          "province_id": "0",
+          "province_name": "Hà Nội",
+          "stadium_type": { "id": -1, "name": "", "quantity": -1 },
+          "types": [],
+          "album": []
+        };
+      }
+      else {
+        this.mStadium = {
+          "address": "",
+          "cover": "",
+          "description": "",
+          "district_id": "001",
+          "district_name": "Ba Đình",
+          "firebase_id": "",
+          "hotlines": [],
+          "id": "",
+          "lat": 0,
+          "lng": 0,
+          "logo": "",
+          "map_id": "",
+          "name": "",
+          "province_id": "0",
+          "province_name": "Hà Nội",
+          "stadium_type": { "id": -1, "name": "", "quantity": -1 },
+          "types": [],
+          "album": []
+        };
+      }
     }
     if (this.mStadium.lat == 0 && this.mStadium.lng == 0) {
-      this.getLatLngByAddress(this.mStadium.address).then(data => {
-        this.mStadium.lat = data['lat'];
-        this.mStadium.lng = data['lng'];
-
-      });
+      if (this.mStadium.address) {
+        this.getLatLngByAddress(this.mStadium.address).then(data => {
+          this.mStadium.lat = data['lat'];
+          this.mStadium.lng = data['lng'];
+        });
+      }
+      else {
+        this.mStadium.lat = 21.027764;
+        this.mStadium.lng = 105.834160;
+      }
     }
     console.log(this.mStadium);
   }
@@ -185,7 +212,6 @@ export class StadiumDetailPage {
       } else {
         this.mHttpClient.get("./assets/data/enums.json").subscribe(
           data => {
-            console.log(data['stadium_types']);
             data['stadium_types'].forEach(element => {
               let type = new StadiumTypePrivate();
               type.id = element.id;
@@ -221,6 +247,40 @@ export class StadiumDetailPage {
   onClickTitle() {
     console.log(this.mStadium);
     console.log(this.mStadiumType);
+  }
+
+  onClickRemove() {
+
+    let alert = this.mAlertController.create({
+      title: 'Xác nhận',
+      message: "Bạn muốn xóa \"" + this.mStadium.name + "\"?",
+      buttons: [
+        {
+          text: 'Xóa',
+          handler: () => {
+
+            if (this.mStadium.firebase_id) {
+              let stadiumsRef = this.mAngularFirestore.collection("stadiums");
+  
+              stadiumsRef.doc(this.mStadium.firebase_id).delete().then(() => {
+                this.navCtrl.pop();
+              });
+            }
+            else{
+              this.navCtrl.pop();
+            }
+          }
+        },
+        {
+          text: 'Cancel',
+          role: 'cancel',
+          handler: () => {
+            console.log('Cancel clicked');
+          }
+        }
+      ]
+    })
+    alert.present();
   }
 
   onClickEditLogo() {
@@ -259,7 +319,11 @@ export class StadiumDetailPage {
 
     {
       let stadiumsRef = this.mAngularFirestore.collection("stadiums");
-      stadiumsRef.doc(this.mStadium.id).set(this.mStadium).then(()=>{
+      if (!this.mStadium.firebase_id) {
+        this.mStadium.firebase_id = this.mAngularFirestore.createId();
+      }
+
+      stadiumsRef.doc(this.mStadium.firebase_id).set(this.mStadium).then(() => {
         this.navCtrl.pop();
       });
     }

@@ -161,4 +161,19 @@ page-stadium-detail {
             }
         }
     }
+    .remove-container {
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 100%;
+        width: 3em;
+        font-size: 2em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+    .remove-container:hover {
+        color: black;
+    }
 }

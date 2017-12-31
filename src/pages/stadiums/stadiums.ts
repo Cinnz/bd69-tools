@@ -13,11 +13,11 @@ import { Observable } from 'rxjs/Observable';
 })
 export class StadiumsPage {
   districtCode: string;
+  districtName: string;
   mStadiumJsonData;
 
   mStadiumCollectionRef: AngularFirestoreCollection<Stadium>;
   mStadiums: Observable<Stadium[]>;
-
 
   constructor(public navCtrl: NavController,
     public mAngularFirestore: AngularFirestore,
@@ -25,9 +25,11 @@ export class StadiumsPage {
     public navParams: NavParams) {
     if (navParams.data['data']) {
       this.districtCode = navParams.data['data'];
+      this.districtName = navParams.data['name'];
     }
     else {
       this.districtCode = '001';
+      this.districtName = "Ba Đình";
     }
   }
 
@@ -125,7 +127,8 @@ export class StadiumsPage {
   }
 
   onClickAdd() {
-    console.log("add", { data: this.districtCode });
+    console.log("add", { district: this.districtCode, name: this.districtName });
+    this.navCtrl.push("StadiumDetailPage", { district: this.districtCode, name: this.districtName });
 
   }
 }

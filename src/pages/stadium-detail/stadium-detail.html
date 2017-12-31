@@ -4,6 +4,10 @@
         <ion-title (click)="onClickTitle()">{{mStadium.name}}</ion-title>
     </ion-navbar>
 
+    <div class="remove-container" (click)="onClickRemove()">
+        <ion-icon name="md-trash"></ion-icon>
+    </div>
+
 </ion-header>
 
 
@@ -69,7 +73,7 @@
                     </div>
                     <ion-label>Mô tả sân</ion-label>
                     <div class="description">
-                        <textarea style="max-width:100%; width: 100%; max-height: 20vh" placeholder="{{mDatas.description}}" [(ngModel)]="this.mStadium.description"></textarea>
+                        <textarea style="max-width:100%; width: 100%; max-height: 20vh; min-height: 10vh" placeholder="{{mDatas.description}}" [(ngModel)]="this.mStadium.description"></textarea>
                     </div>
                     <ion-label>Loại sân</ion-label>
                     <ion-row>
